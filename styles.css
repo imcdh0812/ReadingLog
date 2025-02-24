@@ -1,0 +1,70 @@
+/* 전체 페이지 스타일 */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+/* 제목 스타일 */
+h1 {
+    color: #2c3e50;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
+/* 부제목 스타일 */
+h2 {
+    color: #2980b9;
+    font-size: 1.5em;
+    margin-top: 10px;
+}
+
+/* 단락 스타일 */
+p {
+    font-size: 1.2em;
+    color: #555;
+}
+
+/* 링크 스타일 */
+a {
+    text-decoration: none;
+    color: #e74c3c;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #c0392b;
+}
+
+/* 목록 스타일 */
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    font-size: 1.2em;
+    color: #34495e;
+    background: #ecf0f1;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+/* 이미지 스타일 */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 10px 0;
+}
+
+/* div 스타일 */
+div {
+    background: #bdc3c7;
+    padding: 15px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
